@@ -1,0 +1,313 @@
+    /*  Helper Styles */
+    body {
+        font-family: Varela Round;
+        background: #f1f1f1;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    /* Card Styles */
+
+    .card-sl {
+        border-radius: 8px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .card-image img {
+        max-height: 100%;
+        max-width: 100%;
+        border-radius: 8px 8px 0px 0;
+    }
+
+    .card-action {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #a712cc;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+    .card-action:hover {
+        color: #fff;
+        background: #1c0972;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+    
+    .card-action-sports {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #a712cc;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+    .card-action-sports:hover {
+        color: #fff;
+        background: #15b93e;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+    .card-action-general {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #a712cc;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+    .card-action-general:hover {
+        color: #fff;
+        background: #c20ddacc;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+
+    .card-action-business {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #a712cc;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+    .card-action-business:hover {
+        color: #fff;
+        background: #061ea7af;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+    
+    .card-action-health {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #a712cc;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+    .card-action-health:hover {
+        color: #fff;
+        background: #9b0707e1;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+    .card-action-science {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #a712cc;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+    .card-action-science:hover {
+        color: #fff;
+        background: #037ef1;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+    .card-action-techno {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #a712cc;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    
+    .card-action-enter {
+        position: relative;
+        float: right;
+        margin-top: -25px;
+        margin-right: 20px;
+        z-index: 2;
+        color: #2a07eeaf;
+        background: rgb(255, 255, 255);
+        border-radius: 100%;
+        padding: 15px;
+        font-size: 15px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .card-action-enter:hover {
+        color: #fff;
+        background: #2a07eeaf;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+
+
+    .card-action-techno:hover {
+        color: #fff;
+        background: #8c10f1e1;
+        -webkit-animation: pulse 1.5s infinite;
+    }
+
+
+
+
+
+    .card-heading {
+        font-size: 18px;
+        font-weight: bold;
+        background: #fff;
+        padding: 10px 15px;
+    }
+
+    .card-text {
+        padding: 10px 15px;
+        background: #fff;
+        font-size: 16px;
+        color: #636262;
+    }
+
+    .card-button-general {
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #c20ddacc;
+        color: #fff;
+        border-radius: 0 0 8px 8px;
+    }
+
+    .card-button-sports{
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #15b93e;
+        color: #fff;
+        border-radius: 0 0 8px 8px;
+    }
+
+    .card-button-business{
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #061ea7af;
+        color: #fff;
+        border-radius: 0 0 8px 8px;
+    }
+
+    
+    .card-button-entertainment{
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #2a07eeaf;
+        color: #fff;
+        border-radius: 0 0 8px 8px;
+    }
+    .card-button-health{
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #df1c1ce1;
+        color: #fff;
+        border-radius: 0 0 8px 8px;
+    }
+    .card-button-techno{
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #8c10f1e1;
+        color: #fff;
+        border-radius: 0 0 8px 8px;
+    }
+    .card-button-science{
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #037ef1;
+        color: #fff;
+        border-radius: 0 0 8px 8px;
+    }
+
+    .card-button:hover {
+        text-decoration: none;
+        background-color: #1859da;
+        color: #fff;
+
+    }
+
+
+    @-webkit-keyframes pulse {
+        0% {
+            -moz-transform: scale(0.9);
+            -ms-transform: scale(0.9);
+            -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+        }
+
+        70% {
+            -moz-transform: scale(1);
+            -ms-transform: scale(1);
+            -webkit-transform: scale(1);
+            transform: scale(1);
+            box-shadow: 0 0 0 50px rgba(90, 153, 212, 0);
+        }
+
+        100% {
+            -moz-transform: scale(0.9);
+            -ms-transform: scale(0.9);
+            -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+            box-shadow: 0 0 0 0 rgba(90, 153, 212, 0);
+        }
+    }

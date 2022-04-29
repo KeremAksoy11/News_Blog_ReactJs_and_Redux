@@ -1,0 +1,76 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Kerem AKSOY Title",
+      "description": "Kerem Aksoy Description Text",
+      "author": "Kerem Aksoy News",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png"
+    },
+    {
+      "id": 2,
+      "title": "Kerem AKSOY Title2",
+      "description": "Kerem Aksoy Description Text2",
+      "author": "Kerem Aksoy News2",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png"
+    },
+    {
+      "id": 3,
+      "title": "Kerem AKSOY Title 3",
+      "description": "Kerem Aksoy Description Text",
+      "author": "Kerem Aksoy News",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png"
+    },
+    {
+      "id": 4,
+      "title": "Kerem AKSOY Title 3",
+      "description": "Kerem Aksoy Description Text",
+      "author": "Kerem Aksoy News",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png"
+    },
+    {
+      "id": 5,
+      "title": "Kerem AKSOY Title 6",
+      "description": "Kerem Aksoy Description Text",
+      "author": "Kerem Aksoy News",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png"
+    },
+    {
+      "title": "Kerem AKSOY 2222",
+      "description": "Kerem Aksoy Description Text",
+      "author": "Kerem Aksoy News",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png",
+      "id": 6
+    },
+    {
+      "title": "Kerem AKSOY 2222",
+      "description": "Kerem Aksoy Description Text",
+      "author": "Kerem Aksoy News",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png",
+      "id": 7
+    },
+    {
+      "title": "Kerem AKSOY 2222",
+      "description": "Kerem Aksoy Description Text",
+      "author": "Kerem Aksoy News",
+      "publishedAt": "2022-04-23T07:45:02Z",
+      "url": "https://twitter.com",
+      "urlToImage": "https://i.pinimg.com/originals/96/b3/32/96b332085dc6e65245531e17f9fccb85.png",
+      "id": 8
+    }
+  ]
+}
